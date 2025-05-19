@@ -12,5 +12,19 @@
     "password": "pass2",
     "expiresAt": "2025-11-30",
     "allowOffline": false
+  },  
+  {
+    "id": "9bb06f18b35d6194",
+    "username": "duterte",
+    "password": "fuck",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "9bb06f18b35d6194",
+    "username": "duterte",
+    "password": "fuck",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
   }
 ]
